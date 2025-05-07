@@ -26,10 +26,6 @@
 
 ###
 
-<h2 align="left">🇧🇷 🇺🇸 🇯🇵</h2>
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/guilherme-p-pimentel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,5 +34,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">🇧🇷 🇺🇸 🇯🇵</h2>
 
 ###
