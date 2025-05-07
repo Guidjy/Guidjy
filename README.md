@@ -1,10 +1,7 @@
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/735900498212814865/1369756597525418126/AP1GczNpIPoZ2k5NiIZoc_p5y_q4lxo3zWC1dMuJpwpbQy65_J0oE5cdQOkLw671-h895-s-no-gm.png?ex=681d04bd&is=681bb33d&hm=cecbf569032df71c77da0f1a3c68604e464d9b52055f138913866c087f145060&=&format=webp&quality=lossless&width=262&height=350"  />
+    <h3 align="left">Dedicated Computer Science student with a passion for programming and technology. Highly adaptable to new environments and a quick learner. Eager to gain professional experience in a prominent company, seeking to enhance my technical skills and contribute to innovative projects.</h3>
+  <img height="400" src="https://media.discordapp.net/attachments/735900498212814865/1369759765525299381/image.jpg?ex=681d07b1&is=681bb631&hm=af17c19a4496254d72215137fd4e199ca97620a16d2b0f0ed445874e53ba5108&=&format=webp&width=655&height=873"  />
 </div>
-
-###
-
-<h3 align="left">Dedicated Computer Science student with a passion for programming and technology. Highly adaptable to new environments and a quick learner. Eager to gain professional experience in a prominent company, seeking to enhance my technical skills and contribute to innovative projects.</h3>
 
 ###
 
@@ -36,7 +33,7 @@
 
 ###
 
-<h4 align="left">🇧🇷 🇺🇸 🇯🇵</h4>
+<h2 align="left">🇧🇷 🇺🇸 🇯🇵</h2>
 
 ###
 
