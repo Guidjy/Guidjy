@@ -1,4 +1,4 @@
-<h2 align="left">Dedicated Computer Science student with a passion for programming and technology. Highly adaptable to new environments and a quick learner. Eager to gain professional experience in a prominent company, seeking to enhance my technical skills and contribute to innovative projects.</h2>
+<p align="left">Dedicated Computer Science student with a passion for programming and technology. Highly adaptable to new environments and a quick learner. Eager to gain professional experience in a prominent company, seeking to enhance my technical skills and contribute to innovative projects.</p>
 
 ###
 
