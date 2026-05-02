@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="20" src="https://cdn.discordapp.com/attachments/735900498212814865/1499933383881523250/image.png?ex=69f69952&is=69f547d2&hm=673a0cb26906f5743edf57e097a8a7ae008c83013584070e6af738a4f87a87cd"  />
+<img align="left" height="40" src="https://cdn.discordapp.com/attachments/735900498212814865/1499933383881523250/image.png?ex=69f69952&is=69f547d2&hm=673a0cb26906f5743edf57e097a8a7ae008c83013584070e6af738a4f87a87cd"  />
 
 ###
 
