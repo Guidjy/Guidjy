@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/mKvjXvBRawQAAAAC/frusciante-thinking.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/mKvjXvBRawQAAAAC/frusciante-thinking.gif"  />
 
 ###
 
