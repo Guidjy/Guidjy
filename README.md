@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://x.com/54e45fa5-2604-4d0f-92ec-25e188dffec7" height="40" alt="go logo"  />
+  <img src="https://avatars.githubusercontent.com/u/7894478?v=4" height="40" alt="gin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
