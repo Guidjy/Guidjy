@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">a dedicated CS student with a passion for programming and technology. I love computer architecture, graphics programming and software engineering. Currently working on my skills as a back-end developer.</h5>
+<h5 align="left">A dedicated CS student with a passion for programming and technology. I love computer architecture, graphics programming and software engineering. Currently working on my skills as a back-end developer.</h5>
 
 ###
 
