@@ -68,15 +68,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/735900498212814865/1499934145328058398/image.png?ex=69f69a07&is=69f54887&hm=bc112bf7f6448d9732eb880e482dccc7c9c1810599d7c433e77c5ae0d00b00f3"  />
-</div>
-
-###
