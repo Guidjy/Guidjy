@@ -20,15 +20,7 @@
 
 ###
 
-<img align="right" height="180" src="https://m.media-amazon.com/images/I/51LHJ9R4IVL._AC_UF1000,1000_QL80_.jpg"  />
-
-###
-
-<img align="right" height="180" src="https://m.media-amazon.com/images/I/61ZYxrQEpCL._AC_UF1000,1000_QL80_.jpg"  />
-
-###
-
-<img align="right" height="180" src="https://secure-ecsd.elsevier.com/covers/80/Tango2/largest/9780124077263.jpg"  />
+<img align="right" height="190" src="https://cdn.discordapp.com/attachments/735900498212814865/1499932983925149696/image.png?ex=69f698f2&is=69f54772&hm=c08ef4fd39344050e8977fddba83e139792ee8759ff888f52ef3fe08aa1bb6d9"  />
 
 ###
 
@@ -71,19 +63,7 @@
 
 ###
 
-<img align="left" height="1" src="https://media1.tenor.com/m/UPWG6G8CL9YAAAAC/john-frusciante.gif"  />
-
-###
-
-<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"  />
-
-###
-
-<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"  />
-
-###
-
-<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v8"  />
+<img align="left" height="40" src="https://cdn.discordapp.com/attachments/735900498212814865/1499933383881523250/image.png?ex=69f69952&is=69f547d2&hm=673a0cb26906f5743edf57e097a8a7ae008c83013584070e6af738a4f87a87cd"  />
 
 ###
 
