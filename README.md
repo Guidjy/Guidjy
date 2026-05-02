@@ -20,10 +20,6 @@
 
 ###
 
-<img align="right" height="190" src="https://cdn.discordapp.com/attachments/735900498212814865/1499932983925149696/image.png?ex=69f698f2&is=69f54772&hm=c08ef4fd39344050e8977fddba83e139792ee8759ff888f52ef3fe08aa1bb6d9"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
@@ -63,12 +59,8 @@
 
 ###
 
-<img align="left" height="40" src="https://cdn.discordapp.com/attachments/735900498212814865/1499933383881523250/image.png?ex=69f69952&is=69f547d2&hm=673a0cb26906f5743edf57e097a8a7ae008c83013584070e6af738a4f87a87cd"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Guidjy/Guidjy/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/735900498212814865/1499934145328058398/image.png?ex=69f69a07&is=69f54887&hm=bc112bf7f6448d9732eb880e482dccc7c9c1810599d7c433e77c5ae0d00b00f3"  />
+</div>
 
 ###
