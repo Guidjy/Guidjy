@@ -1,68 +1,94 @@
-<p align="left">Dedicated Computer Science student with a passion for programming and technology. Highly adaptable to new environments and a quick learner. Eager to gain professional experience in a prominent company, seeking to enhance my technical skills and contribute to innovative projects.</p>
+<h2 align="left">Hi, I'm Guilherme!</h2>
+
+###
+
+<h5 align="left">a dedicated CS student with a passion for programming and technology. I love computer architecture, graphics programming and software engineering. Currently working on my skills as a back-end developer.</h5>
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/mKvjXvBRawQAAAAC/frusciante-thinking.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guidjy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guidjy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Guidjy&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/mKvjXvBRawQAAAAd/tenor.gif"  />
+<img align="right" height="1" src="https://media1.tenor.com/m/UPWG6G8CL9YAAAAC/john-frusciante.gif"  />
+
+###
+
+<img align="right" height="180" src="https://m.media-amazon.com/images/I/51LHJ9R4IVL._AC_UF1000,1000_QL80_.jpg"  />
+
+###
+
+<img align="right" height="180" src="https://m.media-amazon.com/images/I/61ZYxrQEpCL._AC_UF1000,1000_QL80_.jpg"  />
+
+###
+
+<img align="right" height="180" src="https://secure-ecsd.elsevier.com/covers/80/Tango2/largest/9780124077263.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-p-pimentel/?locale=en_US" target="blank">
+  <a href="www.linkedin.com/in/guippimentel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/guilherme_pp5" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="guippimentel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/497164990017699840" target="blank">
+  <a href="https://discordapp.com/users/497164990017699840" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="https://www.instagram.com/guilherme_pp5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<img align="left" height="1" src="https://media1.tenor.com/m/UPWG6G8CL9YAAAAC/john-frusciante.gif"  />
+
+###
+
+<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"  />
+
+###
+
+<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8"  />
+
+###
+
+<img align="left" height="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f5.png?v8"  />
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Guidjy/Guidjy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313es4f4k6sksx7byizv2wakflou">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313es4f4k6sksx7byizv2wakflou&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
