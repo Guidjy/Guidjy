@@ -14,15 +14,17 @@
 
 ###
 
+<img align="right" height="1" src="https://media1.tenor.com/m/UPWG6G8CL9YAAAAC/john-frusciante.gif"  />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Guidjy&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="1" src="https://media1.tenor.com/m/UPWG6G8CL9YAAAAC/john-frusciante.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
@@ -60,6 +62,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
